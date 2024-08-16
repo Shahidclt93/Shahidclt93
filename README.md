@@ -69,9 +69,8 @@
 
 ## Top Open Source
 
-[![Taskify](https://github-readme-stats.vercel.app/api/pin/?username=Shahidclt93&repo=Taskify-TaskManagement-webapp_Abschlussprojekt_Taskify-TaskManagement-webapp&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)]([https://github.com/AlpayC/Fullstack_Abschlussprojekt_SilentMoon](https://github.com/Shahidclt93/Taskify-TaskManagement-webapp))
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=portfolio_site&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/Shahidclt93/Portfolio-Website)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Shahidclt93&repo=portfolio_site&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/Shahidclt93/Portfolio-Website)
 
 [![Instor](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Instor&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Instor)
 [![Tasty](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Tasty&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Tasty)
