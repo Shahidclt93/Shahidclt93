@@ -18,14 +18,12 @@
 
 <p align="center">
  <a href="https://alpaycelik.dev" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="AlpayC" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="Shahidclt93" />
  </a>
  <a href="https://de.linkedin.com/in/alpay-celik" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AlpayC"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shahidclt93"/>
  </a>
- <a href="https://discord.com/invite/TqvEDzEv" target="_blank">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="AlpayC"/>
- </a>
+
 </p>
 <br />
 
@@ -72,7 +70,9 @@
 ## Top Open Source
 
 [![Taskify](https://github-readme-stats.vercel.app/api/pin/?username=Shahidclt93&repo=Taskify-TaskManagement-webapp_Abschlussprojekt_Taskify-TaskManagement-webapp&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)]([https://github.com/AlpayC/Fullstack_Abschlussprojekt_SilentMoon](https://github.com/Shahidclt93/Taskify-TaskManagement-webapp))
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=portfolio_site&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/portfolio_site)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=portfolio_site&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/Shahidclt93/Portfolio-Website)
+
 [![Instor](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Instor&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Instor)
 [![Tasty](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Tasty&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Tasty)
 
