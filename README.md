@@ -10,7 +10,7 @@
   <a href="https://github.com/Shahidclt93"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=React.js+developer;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
 </p>
 <p align="center">     
-    「 I am a Frontend Web Developer 」
+    「 I am a MERN stack Developer 」
     <br>
     <br>
 
