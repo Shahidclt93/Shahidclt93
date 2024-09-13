@@ -36,7 +36,7 @@
 <!-- 👯 &emsp; I am looking for the position<code style="color:#9DAAF2"> frontend developer</code>.<br/><br/> -->
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Next.js </code> and <code style="color:#9DAAF2">TypeScript</code><br/><br/>
-📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=sayedshahid33@gmail.com"> sayedshahid33@gmail.com</a><br/><br/>
+📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=shahidclt93@gmail.com"> sayedshahid33@gmail.com</a><br/><br/>
 💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/Shahidclt93/Shahidclt93/issues">here</a>
 
 </p>
